@@ -1,0 +1,6 @@
+# SCSS Live compiling
+sass --watch main.scss ../css/main.css
+
+
+# Live HTTP server
+live-server
