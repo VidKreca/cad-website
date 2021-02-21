@@ -1,0 +1,11 @@
+Glavni featuri:
+
+- o nas
+- galerija
+- kako se pridruziti / oprema / FAQ
+- karte terenov
+- kontakt
+- sponzorji
+
+
+- člani (če naredimo nek backend)
