@@ -27,6 +27,12 @@
 	// Based on css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
 		html {
 			box-sizing: border-box;
+
+			// Smooth scroll when using anchor links
+			scroll-behavior: smooth;
+
+			// Zoom entire page to 80%, looks much better
+			zoom: 0.8;
 		}
 
 		*, *:before, *:after {
